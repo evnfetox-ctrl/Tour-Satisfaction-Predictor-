@@ -1,0 +1,32 @@
+Starting Point,Destination,Transport Type,Estimated Fare (BDT),Notes,Estimated Fare (BDT)_numeric
+Sylhet ,Jaflong,Bus,120-150,"Local bus from Sylhet city, crowded during weekends",120.0
+Sylhet ,Jaflong,CNG,1200-1500,"Reserved CNG, price varies by season",1200.0
+Sylhet ,Ratargul Swamp Forest,Bus + Boat,80-120 + 100,"Bus to Goainghat, then boat entry",80.0
+Sylhet ,Ratargul Swamp Forest,CNG,800-1200,"CNG to ghat, then boat extra",800.0
+Sylhet ,Bichanakandi,Bus + Boat,100-150 + 150,"Bus to Hadarpar, then boat",100.0
+Sylhet ,Bichanakandi,CNG,1000-1400,Direct reserve to Hadarpar,1000.0
+Sylhet ,Lalakhal,Bus,70-100,Bus to Sarighat,70.0
+Sylhet ,Lalakhal,CNG,700-1000,Direct reserve,700.0
+Sylhet ,Tamabil,Bus,100-130,Highway route towards border,100.0
+Sylhet ,Tamabil,CNG,900-1300,Direct trip,900.0
+Sylhet ,Hazrat Shah Jalal Mazar,Rickshaw/CNG,50-150,Within Sylhet city,50.0
+Sylhet ,Hazrat Shah Paran Mazar,CNG,150-250,Short distance from city,150.0
+Sylhet ,Utma Chora,CNG + Walk,900-1200,"Remote area, includes walking",900.0
+Sylhet ,Sadha Pathor,Bus + Boat,120-180 + 100,"Bus to Bholaganj, then boat",120.0
+Sylhet ,Sadha Pathor,CNG,1200-1600,Direct reserve,1200.0
+Sylhet ,Shapla Bil,Bus,60-90,"Local transport, seasonal water levels",60.0
+Sylhet ,Shapla Bil,CNG,500-800,Short trip,500.0
+Sylhet ,Hakaluki Haor,Bus,150-200,Longer distance toward Moulovibazar side,150.0
+Sylhet ,Hakaluki Haor,CNG,1500-2000,Full-day reserve usually required,1500.0
+Sreemangal,Sreemangal Tea Garden Area,CNG/Rickshaw,100-300,Short local trips inside tea estates,100.0
+Sreemangal,Madhabkunda Lake,Bus,120-180,Bus toward Barlekha route,120.0
+Sreemangal,Madhabkunda Lake,CNG,1000-1400,Reserved trip,1000.0
+Sreemangal,Lawachara National Park,CNG,200-400,"Very close, popular route",200.0
+Sreemangal,Lawachara National Park,Auto/Rickshaw,150-300,Quick local ride,150.0
+Sreemangal,Madhabkunda Waterfall,Bus,150-220,Same route as lake,150.0
+Sreemangal,Madhabkunda Waterfall,CNG,1200-1600,Direct reserve,1200.0
+Sreemangal,Ham Ham Waterfall,CNG + Trek,1500-2500,"CNG to Rajkandi, then 2-3 hr trek",1500.0
+Sunamganj,Tanguar Haor,Boat (Engine),2000-4000,Full-day boat reserve common,2000.0
+Sunamganj,Tanguar Haor,Local Boat,500-1000,Shared/local arrangement possible,500.0
+Sunamganj,Shimul Bagan,Motorbike/CNG,200-500,"Seasonal attraction, short distance",200.0
+Sunamganj,Shimul Bagan,Auto,150-300,Depends on season and crowd,150.0
